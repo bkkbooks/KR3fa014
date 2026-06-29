@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa014/tls/v1/juan/19
+seq: 19
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 天象儀全圖
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa014.xml
+hash: sha256:d59eedd34603e0d8e37dce13820881d0d5859481ce83dc831387cf931528c5ac

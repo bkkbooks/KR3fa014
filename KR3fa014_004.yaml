@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa014/tls/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 慧星道圖二十七日赤道圖二十八十二辰十二八宿圖二十九坤元圖三十皇明坤圓圖三十一九州分野圖三十二目録終皇明天啓三年嵗在癸亥搨提月榖旦吳興徐敬儀識
+  hash: sha256:5abc5a06634225965d538133f931e5591afc4734431ece5673737e6f18938e2f
+metadata:
+  title: 天象儀全圖
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa014.xml
+hash: sha256:3930afadd878c6fa0433f5ca948950a2fa1d908b961b6d52dfd6edd341369899

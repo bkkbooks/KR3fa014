@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa014/tls/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 帝席宮圖一天門宮圖十三帝座宮圖二翼宮圖十四軒轅宮圖三天社宮圖十五六甲宮圖四軍市宮圖十六水府宮圖五玉井宮圖十七天宮圖六天苑宮圖十八奎宮圖七天倉宮圖十九天皇宮圖八壁陣宮圖二十天釣宮圖九天壘宮圖二十一織女宮圖十天淵宮圖二十二天紀宮圖十一天江宮圖二十三庶子宮圖十二天幅宮圖二十四定寅圖二十五日月星比較圖二十六
+  hash: sha256:38a2078f13f3ba792ef3c6149a9555f9dd133727ad5528c090862ff0f046a81e
+metadata:
+  title: 天象儀全圖
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa014.xml
+hash: sha256:c6bba6d4e6668fead1a0880b2501a20abb4f9efb89946613a790f530ddec830e
