@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 慧星道圖二十七日赤道圖二十八十二辰十二八宿圖二十九坤元圖三十皇明坤圓圖三十一九州分野圖三十二目錄終皇明天啟三年嵗在癸亥搨提月榖旦吳興徐敬儀識
-  hash: sha256:48bd79e0c50cec7e41c954a8e2ced5a241be43f44b4fe36e80d2aea452af9a87
+  text: 慧星道圖二十七日赤道圖二十八十二辰十二八宿圖二十九坤元圖三十皇明坤圓圖三十一九州分野圖三十二目録終皇明天啓三年嵗在癸亥拓提月榖旦吳興徐敬儀識
+  hash: sha256:df10913137cee1249a4b0d7fbb906975d3dbfa8b58f6696b8107701f367034da
 metadata:
   title: 天象儀全圖
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa014.xml
-hash: sha256:96a7eb1c6f13034a93807d42a364b85b8abc725fd663e240e7123a534e9b10b2
+hash: sha256:7badbb4a4e2b8af753dfe6b04131f01d2655d69a1d5da7571688372f5086c614
